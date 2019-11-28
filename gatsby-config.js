@@ -5,6 +5,6 @@
  */
 
 module.exports = {
-  pathPrefix: "/hello-world",
+  pathPrefix: "/hello-world-gatsby",
   /* Your site config here */
 }
